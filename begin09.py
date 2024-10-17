@@ -7,6 +7,6 @@ c = 2
 # Assign 4 (int value) to 'd' variable;
 d = 4
 # Find the result of that expression 'https://github.com/xakimovallamurod/variables_and_types/blob/main/begin09.py' to variable 'k';
-k = b * c * d // a
+k = a + b - c * d
 # # Print the variable 'k'.
 print (k)
