@@ -5,5 +5,5 @@ b = 4
 # Assign 8 (int value) to 'c' variable;
 c = 8
 # Print the result of that expression 'https://github.com/xakimovallamurod/variables_and_types/blob/main/README.md#begin07';
-k = (c - b) * 5
-print (k)
+k = (2 * a) / b * c
+print(k)
